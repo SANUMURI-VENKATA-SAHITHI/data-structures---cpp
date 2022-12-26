@@ -12,4 +12,6 @@
 ->Operations in heap data structure
                 
              Heapify :-  process of creating a heap from an array
-             Insertion :- 
+             Insertion :- process of inserting an element into a heap. Time complexity O(log N)
+             Deletion :- process of deleting the highest priority node(top element) and then organizing and returing the element. Time Complexity O(log N)
+             Peek :- to check the highest priority element of the heap (max and min for max and min heap)
