@@ -1,1 +1,15 @@
+                                                                            HEAP DATA STRUCTURE
+                                                                            
+                                                                            
+->A heap data structure is a complete binary tree
+->There are two types of heap data structures
+       1.Min heap
+       2.Max heap
 
+       Min heap :- Its parent node is always less than their child node
+       Max heap :- Its parent node is always greater than their child node
+
+->Operations in heap data structure
+                
+             Heapify :-  process of creating a heap from an array
+             Insertion :- 
